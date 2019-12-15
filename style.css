@@ -1,0 +1,25 @@
+body{
+    background-color: #fafafa;
+    padding: 0;
+    margin: 0;
+}
+
+#body{
+    text-align:  center;
+    line-height: 100vh;
+}
+
+header{
+
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+    color: white;
+
+}
+footer{
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+    padding: 15px;
+}
