@@ -1,0 +1,17 @@
+body{
+    background-color: #fafafa;
+}
+
+#body{
+    text-align:  center;
+    line-height: 100vh;
+}
+
+header{
+
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+    color: white;
+
+}
